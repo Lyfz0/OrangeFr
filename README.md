@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Orange
 - 👀 I’m interested in NodeJS and Python
 - 🌱 I’m currently learning NodeJS and working on Discord Bots / Tools
-- ☎️ You can contact me on discord @ Orange#0911
+- ☎️ You can contact me on Discord @ Orange#0911
 <img src="https://github-readme-stats.vercel.app/api?username=OrangeFR&&show_icons=true&title_color=ffffff&icon_color=03d3fc&text_color=daf7dc&bg_color=151515">
 <!---
 OrangeFr/OrangeFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
