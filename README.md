@@ -1,4 +1,4 @@
-# Hi there, I'm Lyfz
+# Hi there, I'm Samer
 
 - 🔨 Currently working on: Web3 & NFT implementations into discord and other software
 - 🌱 I’m currently learning Python & Nodejs
